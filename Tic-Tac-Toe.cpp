@@ -112,7 +112,7 @@ void TicTacToe::checkWinCondition()
 		gameOver = true;
 		display();
 		cout << "It's a tie!" << endl;
-		cout << "Game Over!n" << endl;
+		cout << "Game Over!" << endl;
 		cout << "Do you want to play again?" << endl;
 		cout << "Type 'y' for yes or 'n' for no: ";
 
